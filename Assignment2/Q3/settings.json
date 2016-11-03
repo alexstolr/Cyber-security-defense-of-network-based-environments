@@ -1,0 +1,13 @@
+{
+  "silent_mode": true,
+  "bd_fl_ext": [
+    "xls",
+    "xlsx",
+    "pdf",
+    "doc",
+    "docx",
+    "exe",
+    "bat"
+  ],
+  "exception": "Bad file extension!"
+}
